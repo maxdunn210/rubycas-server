@@ -1,5 +1,4 @@
 .svn
-config.yml
 *.db
 *.sqlite3
 *.swp
@@ -16,3 +15,4 @@ custom/*
 resources/dev
 .rvmrc
 .bundle
+.idea
