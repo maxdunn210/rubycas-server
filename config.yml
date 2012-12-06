@@ -103,7 +103,7 @@ database:
   adapter: mysql2
   database: casserver
   username: dromsweb
-  password: <password>
+  password: abcd1234
   host: localhost
   reconnect: true
 
@@ -172,7 +172,7 @@ authenticator:
     adapter: mysql2
     database: dromsweb_development
     username: dromsweb
-    password: <password>
+    password: abcd1234
     host: localhost
   user_table: users
   username_column: username
